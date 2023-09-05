@@ -12,3 +12,5 @@ Here are some of the highlights of ZeroCamp for Students:
 - Job readiness preparation: You will learn the skills you need to succeed in a tech job, including how to write a resume, ace a job interview, etc.
 - Community: You will be part of a community of like-minded individuals who are all passionate about learning to code.
 - Open startup philosophy: We plan to run Zerocamp following the [Open startup](https://baremetrics.com/open-startups) philosophy. The entire program and its operations will be made open so that anyone can adapt or replicate Zerocamp.
+
+If you like to partner/volunteer with us, please fill out [this form](https://forms.gle/1SiQ2YLQdMxKibtB8) or drop a mail to zerocamp@digievo.in
