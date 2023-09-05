@@ -13,4 +13,8 @@ Here are some of the highlights of ZeroCamp for Students:
 - Community: You will be part of a community of like-minded individuals who are all passionate about learning to code.
 - Open startup philosophy: We plan to run Zerocamp following the [Open startup](https://baremetrics.com/open-startups) philosophy. The entire program and its operations will be made open so that anyone can adapt or replicate Zerocamp.
 
-If you like to partner/volunteer with us, please fill out [this form](https://forms.gle/1SiQ2YLQdMxKibtB8) or drop a mail to zerocamp@digievo.in
+If you like to partner/volunteer with us, please fill out [this form](https://forms.gle/1SiQ2YLQdMxKibtB8) or drop an email to zerocamp@digievo.in
+
+Read the program FAQS [here](https://github.com/Zer0Camp/.github/blob/main/profile/faqs.md)
+
+Apply to the first batch of Zerocamp [here](https://forms.gle/nJH3QPcRFcSmMuPr8)
